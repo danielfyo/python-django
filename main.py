@@ -1,2 +1,3 @@
 ﻿print("Starting e-commerce...")
-print("Selected option: " + input("Type the action name to continue: "))
+action_name = input("Type the action name to continue: ")
+print("Selected option: " + action_name)
